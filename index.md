@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# 欢迎你来！
 
-You can use the [editor on GitHub](https://github.com/Nephalemian/Nephalemian.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我是心理与认知科学学院19级本科生唐雨辰，欢迎带带我！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 关于心理学
 
-### Markdown
+心理学专业是很容易被误解的
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+所以贵院打出的宣传是：
 
-```markdown
-Syntax highlighted code block
+**学心理的**                               
 
-# Header 1
-## Header 2
-### Header 3
+**不读心**
+                                     
+**不解梦**
+                                     
+**不算命**
+                                     
+**！！！**
 
-- Bulleted
-- List
+## 关于我
 
-1. Numbered
-2. List
+四川成都人。暴雪游戏十年老粉。热爱守望先锋！巨人厨，（伪）JO厨。
 
-**Bold** and _Italic_ and `Code` text
+## 我的理想
 
-[Link](url) and ![Image](src)
-```
+先把食堂吃遍！明明各个食堂藏着不同的宝藏，我却不知道，这难道不是很悲伤的事情吗？
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 其他的东西
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nephalemian/Nephalemian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我还没想好，想到再继续写好了！
